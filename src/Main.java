@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello Git last day!");
         //line 1
         // B21 is excited
+        // B21 is dedicated
     }
 }
